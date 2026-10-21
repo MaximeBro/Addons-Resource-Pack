@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "spacemachines:components/pure_coolant_cell"
+    }
+}

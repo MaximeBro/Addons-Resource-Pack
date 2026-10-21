@@ -1,0 +1,24 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_data",
+        "cases": [
+            {
+                "when": {
+                    "PublicBukkitValues": {
+                        "slimefun:slimefun_item": "INFINITE_LIGHTER"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "spacemachines:tools/infinite_lighter"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "item/flint_and_steel"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "pack":{
+    "pack_format": 64,
+    "description":[
+       "§9UniverseStudio §8SpaceMachines",
+       "\nSuports v26+"
+    ],
+    "supported_formats":{
+      "min_inclusive": 64,
+      "max_inclusive": 500
+    },
+    "min_format": [64, 0],
+    "max_format": [500, 0]
+  }
+}

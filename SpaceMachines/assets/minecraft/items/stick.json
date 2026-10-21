@@ -1,0 +1,24 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_data",
+        "cases": [
+            {
+                "when": {
+                    "PublicBukkitValues": {
+                        "slimefun:slimefun_item": "RADIATION_TOOL_ROD"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "spacemachines:tools/radiation_tool_rod"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "item/stick"
+        }
+    }
+}

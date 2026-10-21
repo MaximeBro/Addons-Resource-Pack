@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+        "bottom": "electricspawners_v2:machines/spawner_top",
+        "top": "electricspawners_v2:machines/spawner_top",
+        "side": "electricspawners_v2:machines/spawner_v2"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:custom_data",
+        "value": {
+            "PublicBukkitValues": {
+                "electricspawnersv2:electric_spawner": "true"
+            }
+        },
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "electricspawners_v2:machines/spawner_v2"
+        },
+        "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/spawner"
+        }
+    }
+}
