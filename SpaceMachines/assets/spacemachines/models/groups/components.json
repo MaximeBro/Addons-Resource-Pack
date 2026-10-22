@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/cube_all",
+    "parent": "item/generated",
     "textures": {
-        "all": "spacemachines:groups/components"
+        "layer0": "spacemachines:groups/components"
     }
 }

@@ -15,6 +15,10 @@
         },
         {
             "type": "single",
+            "resource": "spacemachines:groups/generators"
+        },
+        {
+            "type": "single",
             "resource": "spacemachines:tools/infinite_lighter"
         },
         {
