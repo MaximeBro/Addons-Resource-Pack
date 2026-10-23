@@ -1,4 +1,7 @@
-# Addons-Resource-Pack
+# Addons-Resource-Pack v26+
+
+## Status
+Under development, the resource pack is incomplete and could lead rendering issues.
 
 ## Legend
 - ✅ → Added & working well
